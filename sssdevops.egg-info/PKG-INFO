@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: sssdevops
+Version: 1
+Summary: project for molssi bootcamp
+Home-page: https://github.com/quantumreality16/Python-Project
+Author: 
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Provides-Extra: tests
+Provides-Extra: docs
