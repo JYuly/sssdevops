@@ -20,7 +20,8 @@ if __name__ == "__main__":
             ],
             'tests': [
                 'pytest',
-            ],
+                'pytest-cov',
+            'codecov'],
         },
 
         tests_require=[

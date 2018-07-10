@@ -1,3 +1,5 @@
+README.md
+setup.cfg
 sssdevops.egg-info/PKG-INFO
 sssdevops.egg-info/SOURCES.txt
 sssdevops.egg-info/dependency_links.txt

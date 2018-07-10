@@ -7,3 +7,5 @@ numpydoc
 
 [tests]
 pytest
+pytest-cov
+codecov

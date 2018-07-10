@@ -1,0 +1,9 @@
+[
+  "test_mean.py::test_simple",
+  "test_mean.py::test_more",
+  "test_mean.py::test_empty",
+  "test_mean.py::test_type_error",
+  "test_mean.py::test_many[num_list0-3.0]",
+  "test_mean.py::test_many[num_list1-1.5]",
+  "test_mean.py::test_many[num_list2-5]"
+]
