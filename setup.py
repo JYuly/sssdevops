@@ -3,7 +3,7 @@ import setuptools
 if __name__ == "__main__":
     setuptools.setup(
         name='sssdevops',
-        version= versioneer.get_version(),
+        version= 1,
         description='project for molssi bootcamp',
         author='',
         url="https://github.com/quantumreality16/Python-Project",
