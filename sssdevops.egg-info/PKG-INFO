@@ -7,5 +7,5 @@ Author:
 License: UNKNOWN
 Description: UNKNOWN
 Platform: UNKNOWN
-Provides-Extra: tests
 Provides-Extra: docs
+Provides-Extra: tests

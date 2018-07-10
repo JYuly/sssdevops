@@ -14,10 +14,6 @@ Returns
 -------
 Two lists, 
 
-Examples
---------
->>> split([])
-
 
 """
 
