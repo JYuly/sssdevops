@@ -1,7 +1,7 @@
 """
-comment
+Miscellaneous list manipulation
 """
 
 
-defsplit(num_list,index):
+def split(num_lst, index):
 	pass
